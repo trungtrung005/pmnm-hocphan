@@ -2,8 +2,10 @@ Dự án là một thư viện Python chuyên xử lý ngôn ngữ tự nhiên d
 Để lựa chọn giấy phép tối ưu, việc xem xét bản chất của hai nhóm giấy phép phổ biến là rất quan trọng:
 + Giấy phép dính (Copyleft - GPL / AGPL): Bắt buộc bất kỳ phần mềm nào tích hợp hoặc chỉnh sửa thư viện cũng phải mở mã nguồn toàn bộ sản phẩm theo cùng điều khoản. Điều này vô tình tạo ra tâm lý e ngại cho các doanh nghiệp, ngăn cản họ đưa thư viện vào các sản phẩm thương mại đóng mã nguồn.
 + Giấy phép dễ dãi (Permissive - MIT / Apache-2.0): Cho phép người dùng tự do sử dụng, chỉnh sửa và đóng gói thư viện vào các sản phẩm thương mại mà không bắt buộc phải mở mã nguồn của toàn bộ ứng dụng lớn.
+
 Dù MIT cũng là một giấy phép dễ dãi rất phổ biến, Apache-2.0 là lựa chọn vượt trội hơn cho dự án này nhờ ba yếu tố cốt lõi:
 1.Quyền thương mại rõ ràng: Doanh nghiệp có thể yên tâm tích hợp thư viện vào các giải pháp kinh doanh mà không lo ngại về các ranh giới pháp lý mơ hồ.
 2.Điều khoản bằng sáng chế minh thị (Explicit Patent Grant): Apache-2.0 bảo vệ cả tác giả lẫn người dùng bằng cách tự động cấp quyền sử dụng các bằng sáng chế liên quan đến mã nguồn, đồng thời hủy bỏ quyền này nếu có bên khởi kiện vi phạm bằng sáng chế. Đây là điểm mà giấy phép MIT hoàn toàn bỏ ngỏ.
+
 Tóm lại, minh bạch trong chỉnh sửa: Giấy phép yêu cầu các bên khi sửa đổi mã nguồn phải ghi nhận rõ ràng các thay đổi (changes noticed), giúp cộng đồng theo dõi được sự phát triển của phiên bản gốc.
 Apache-2.0 là sự dung hòa hoàn hảo giữa tính cởi mở của mã nguồn mở và sự an toàn pháp lý cho môi trường doanh nghiệp. Giấy phép này giúp thư viện dễ dàng tiếp cận các sản phẩm thương mại để tối đa hóa độ phủ, đồng thời bảo vệ tài sản trí tuệ của dự án. Để tuân thủ, người sử dụng chỉ cần giữ lại thông báo bản quyền gốc, đính kèm bản sao giấy phép Apache-2.0 và ghi chú rõ ràng nếu có thao tác chỉnh sửa mã nguồn.
