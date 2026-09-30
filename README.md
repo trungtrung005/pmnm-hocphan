@@ -2,7 +2,7 @@
 # BÀI THỰC HÀNH PHẦN MỀM MÃ NGUỒN MỞ
 
 ## 1. Thông tin sinh viên
-- Họ và tên: Trần Hữu Minh
+- Họ và tên: Trần Hữu Minh Trung
 - Môn học: Phần mềm mã nguồn mở
 - Trường: Đại học Khoa học - Đại học Huế
 
